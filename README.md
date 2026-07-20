@@ -1,4 +1,4 @@
 Software UART for atmega328p.
 For learning purposes
 
-Currently supports only transmitting with baudrate 9600.
+Can receive and transmit byte stream on 9600 baud rate
